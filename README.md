@@ -1,6 +1,4 @@
 # HobbyPlace 🎨
- 
-***
 
 # Contents <br>
 1. [개요](#star-개요)  
@@ -34,7 +32,26 @@
   - 공통의 관심사를 통해 서로를 연결해 주는 취미 여가 플랫폼 기획 <br>
 
 - 개발 환경 <br><br>
-![image](https://user-images.githubusercontent.com/115603858/221830442-edf7066a-29dc-4288-9f90-3c6306eb630e.png)<br>
+![개발환경](https://user-images.githubusercontent.com/115604577/228150767-6fedb903-4e39-4840-bf42-b2456a9ff806.png)<br>
+
+- usecase 다이어그램
+- 사용자(튜티) , 강사(튜터) <br>
+![usecase 1](https://user-images.githubusercontent.com/115604577/228152251-2b86a711-2218-4d62-8dca-f3a76ad3e766.png) <br>
+- 관리자<br>
+![usecase 관리자](https://user-images.githubusercontent.com/115604577/228152395-0ce1c0fc-8a3f-454e-81cb-65c3d254df95.png)<br>
+
+- DB 설계(ERD Cloud) <br>
+- ![erd](https://user-images.githubusercontent.com/115604577/228153888-b1e224fa-d419-4eb2-be3d-9640637b18eb.jpg)
+***
+
+
+# :star: 팀 소개 및 주요 기능
+
+![파트분배](https://user-images.githubusercontent.com/115604577/228151268-e57ed964-9eb9-4f15-9c6e-2dd9194bafc7.png)
 
 ***
  
+ 
+# :star: 구현 기능
+## [사용자]
+### : pushpin: 스타일 조회
