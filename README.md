@@ -32,7 +32,9 @@
 - 개발 환경 <br><br>
 ![개발환경](https://user-images.githubusercontent.com/115604577/228150767-6fedb903-4e39-4840-bf42-b2456a9ff806.png)<br>
 
-# : document
+***
+
+# :star: document
 - usecase 다이어그램
 - 사용자(튜티) , 강사(튜터) <br>
 ![usecase 1](https://user-images.githubusercontent.com/115604577/228152251-2b86a711-2218-4d62-8dca-f3a76ad3e766.png) <br>
