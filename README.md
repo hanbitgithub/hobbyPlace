@@ -2,8 +2,9 @@
 
 # Contents <br>
 1. [개요](#star-개요)  
-2. [팀 소개 및 주요 기능](#star-팀-소개-및-주요-기능)
-3. [구현 기능](#star-구현-기능)
+2. [Document](#star-document)
+3. [팀 소개 및 주요 기능](#star-팀-소개-및-주요-기능)
+4. [구현 기능](#star-구현-기능)
     - [메인페이지](#pushpin-메인페이지)
     - [(튜터)튜터 메인페이지, 프로필수정](#pushpin-(튜터)메인페이지)
     - [(튜터)클래스 등록](#pushpin-(튜터)클래스등록)
@@ -17,7 +18,6 @@
     - [(사용자)클래스 튜터상세정보](#pushpin-(사용자)클래스튜터상세정보)  
    
 
-4. [Document](#star-document)
 
 ***
 
@@ -32,6 +32,7 @@
 - 개발 환경 <br><br>
 ![개발환경](https://user-images.githubusercontent.com/115604577/228150767-6fedb903-4e39-4840-bf42-b2456a9ff806.png)<br>
 
+# : document
 - usecase 다이어그램
 - 사용자(튜티) , 강사(튜터) <br>
 ![usecase 1](https://user-images.githubusercontent.com/115604577/228152251-2b86a711-2218-4d62-8dca-f3a76ad3e766.png) <br>
