@@ -41,6 +41,9 @@
 - DB 설계(ERD Cloud) <br>
 ![erd](https://user-images.githubusercontent.com/115604577/228807391-367a106b-f8f9-4da1-8503-fdb77a568701.jpg)
 
+- 개발 일정 <br>
+![개발일정](https://user-images.githubusercontent.com/115604577/229401260-bc0e107d-1187-4b13-b291-5b31f27f6590.png)
+
 ***
 
 
